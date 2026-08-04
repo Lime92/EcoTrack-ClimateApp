@@ -1,17 +1,24 @@
-# ecotrack
+# 🌿 EcoTrack - Personal Environmental Footprint Tracker
 
-A new Flutter project.
+**EcoTrack** is a Flutter mobile application designed to promote daily sustainable habits by tracking personal carbon usage, calculating an interactive Eco-Score, and proposing engaging daily eco-challenges.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+*  **Daily Ecological Logging:** Quick inputs for transportation, energy usage, and waste management.
+*  **Eco-Score & Analytics:** Calculates personal environmental impact and visualizes progress using interactive charts.
+*  **Gamified Challenges:** Interactive daily and weekly eco-challenges to encourage sustainable lifestyle habits.
+*  **Offline-first Architecture:** Fast, lightweight, and stores user habits locally.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Tech Stack
+* **Framework:** Flutter (Dart)
+* **Architecture / State Management:** Bloc / Provider
+* **Storage:** Local Storage (Hive / Shared Preferences)
+* **Data Visualization:** `fl_chart`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📲 Download & Test
+You can download the compiled Android APK directly from the [Releases Page](https://github.com/Lime92/EcoTrack-ClimateApp/releases).
